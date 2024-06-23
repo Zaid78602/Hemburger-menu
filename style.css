@@ -125,3 +125,10 @@
 #check:checked ~ .sidebar_menu .btn_two i{
     opacity: 1;
 }
+
+/* media quaries */
+@media (max-width: 431px) {
+    .main_box {
+        background-size: contain;
+    }
+}
